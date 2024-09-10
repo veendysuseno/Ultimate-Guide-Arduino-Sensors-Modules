@@ -34,7 +34,7 @@ Welcome to the **Ultimate Guide to Arduino Sensors & Modules**! This repository 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Ultimate_Guide_Arduino_Sensors_Modules.git
+   git clone https://github.com/veendysuseno/Ultimate_Guide_Arduino_Sensors_Modules.git
    ```
 
 2. Install Required Libraries: Each example may require specific libraries. Follow the instructions in each module's folder to install the necessary libraries via the Arduino Library Manager or manually.
